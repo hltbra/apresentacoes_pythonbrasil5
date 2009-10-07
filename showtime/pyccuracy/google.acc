@@ -1,0 +1,14 @@
+As a Google User
+I want to search Google
+So that I can test Pyccuracy
+
+Scenario 1 - Searching for Hello World
+Given
+  I go to "http://www.google.com"
+When
+  I fill "q" textbox with "Hello World"
+  And I click "btnG" button
+  And I wait for 2 seconds
+Then
+  I see "Hello World - Pesquisa Google" title
+
