@@ -14,6 +14,7 @@ Palestras Relâmpagos (10/09 e 11/09)
 Apresentação sobre BDD (12/09)
 ==============================
   - slides.odp (usados na apresentação)
+  - slides.pdf (o arquivo é o slides.odp exportado pra PDF - não há imagens quebradas aqui) # recomendado
 
   - slides2.0.odp (corrigida dimensões das imagens pra ver se o slideshare.net conseguiria exibir)
 
